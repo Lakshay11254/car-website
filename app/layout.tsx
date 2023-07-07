@@ -4,7 +4,7 @@ import './globals.css'
 
 
 export const metadata = {
-  title: 'Cars App',
+  title: 'Cars',
   description: 'Discover the best cars in the world',
 }
 
